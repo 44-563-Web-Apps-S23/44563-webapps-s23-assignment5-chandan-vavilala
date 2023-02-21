@@ -1,4 +1,4 @@
 # WebApps-Assignment-5 Starter Code
 
 
-Hosted at [GitHub](https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment5-chandan-vavilala/)
+Hosted at [GitHub](https://44-563-web-apps-s23.github.io/44563-webapps-s23-assignment5-chandan-vavilala/plants.html)
